@@ -1,0 +1,11 @@
+C:\Users\X\Documents\Visual Studio 2010\Projects\Koeficijent\Koeficijent\bin\Debug\Koeficijent.exe
+C:\Users\X\Documents\Visual Studio 2010\Projects\Koeficijent\Koeficijent\bin\Debug\Koeficijent.pdb
+C:\Users\X\Documents\Visual Studio 2010\Projects\Koeficijent\Koeficijent\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\X\Documents\Visual Studio 2010\Projects\Koeficijent\Koeficijent\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\X\Documents\Visual Studio 2010\Projects\Koeficijent\Koeficijent\obj\x86\Debug\Koeficijent.exe
+C:\Users\X\Documents\Visual Studio 2010\Projects\Koeficijent\Koeficijent\obj\x86\Debug\Koeficijent.pdb
+C:\Users\X\Documents\Visual Studio 2010\Projects\Koeficijent\Koeficijent\obj\x86\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\X\Documents\Visual Studio 2010\Projects\Koeficijent\Koeficijent\obj\x86\Debug\Koeficijent.csproj.GenerateResource.Cache
+C:\Users\X\Documents\Visual Studio 2010\Projects\Koeficijent\Koeficijent\obj\x86\Debug\WindowsFormsApplication1.ZadnjaSoba.resources
+C:\Users\X\Documents\Visual Studio 2010\Projects\Koeficijent\Koeficijent\obj\x86\Debug\Koeficijent.csprojResolveAssemblyReference.cache
+C:\Users\X\Documents\Visual Studio 2010\Projects\Koeficijent\Koeficijent\obj\x86\Debug\WindowsFormsApplication1.zadnjaKuca.resources
